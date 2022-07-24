@@ -13,8 +13,12 @@ public class Hello {
 			System.out.println(i);System.out.println(i);
 			System.out.println(i);System.out.println(i);
 			System.out.println(i);System.out.println(i);
+
 			System.out.println(i);System.out.println(i);
-			System.out.println(i);
+			System.out.println(i);System.out.println(i);
+			System.out.println(i);System.out.println(i);
+			System.out.println(i);System.out.println(i);System.out.println(i);System.out.println(i);
+			System.out.println(i);System.out.println(i);System.out.println(i);System.out.println(i);
 			System.out.println(i);
 			System.out.println(i);
 			System.out.println(i);System.out.println(i);System.out.println(i);System.out.println(i);
@@ -22,7 +26,11 @@ public class Hello {
 			System.out.println(i);System.out.println(i);System.out.println(i);
 			System.out.println(i);System.out.println(i);System.out.println(i);
 			System.out.println(i);System.out.println(i);System.out.println(i);System.out.println(i);
-			
+			System.out.println(i);System.out.println(i);System.out.println(i);System.out.println(i);
+			System.out.println(i);System.out.println(i);System.out.println(i);
+			System.out.println(i);System.out.println(i);System.out.println(i);
+			System.out.println(i);System.out.println(i);System.out.println(i);
+			System.out.println(i);System.out.println(i);System.out.println(i);System.out.println(i);
 
 			
 		}
